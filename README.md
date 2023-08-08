@@ -22,7 +22,7 @@ Chính vì không có sự chắc chắn trong thắng và thua, nên lúc này 
 
 Phần cuối cùng, quan trọng và khó khăn nhất, mất nhiều thời gian để thực hành nhất. Đó chính là Tâm lý giao dịch. 
 
-***NHÀ QUAN TRỌNG LÀ MẮT XÍCH YẾU NHẤT TRONG HỆ THỐNG GIAO DỊCH***
+***NHÀ GIAO DỊCH LÀ MẮT XÍCH YẾU NHẤT TRONG HỆ THỐNG GIAO DỊCH***
 
 Hay nói khác đi, khả năng tư duy, tâm lý của nhà giao dịch là điểm sống còn của công việc giao dịch. Đây thực sự là một vấn đề hóc búa vì các cụ có câu
 
