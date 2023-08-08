@@ -54,7 +54,7 @@ Dưới đây là những gợi ý đơn giản nhưng quan trọng để bắt 
 
 Để bắt đầu cuộc hành trình trở thành Trader Giàu, cách tiếp cận thực sự quan trọng và thực sự cần thiết nhưng thường bị phớt lờ và bỏ qua một cách không thương tiếc, đó là vào lệnh thị trường với khối lượng quá cỡ để tìm kiếm lợi nhuận lớn ngay lập tức. Sai lầm này là thực sự nghiêm trọng, hãy thử tưởng tượng một người chưa bao giờ lái xe ô tô nhưng lại nhảy ngay lên xe F1 để lái với tốc độ 300km/giờ. Chuyện gì sẽ xảy ra? Đương nhiên rồi, chỉ có thể là mất mạng mà thôi.
 
-Do vậy Trading với size lệnh nhỏ nhất có thể, để cho tổn thất là thấp nhất là điều kiện cần tiên quyết. Khung thời gian giao dịch bắt buộc là Khung D1, H4. Không được phép giao dịch với khung thấp hơn H4, kể cả H1. Tại sao? Tại khung thấp giá di chuyển quá nhanh. Trader mới không đủ tỉnh táo sẽ xa vào mê hồn trận của giá.
+Do vậy Trading với size lệnh nhỏ nhất có thể, để cho tổn thất là thấp nhất là điều kiện cần tiên quyết. Khung thời gian giao dịch bắt buộc là Khung D1, H4. Không được phép giao dịch với khung thấp hơn H4, kể cả H1. Tại sao? Tại khung thấp giá di chuyển quá nhanh. Trader mới không đủ tỉnh táo sẽ sa vào mê hồn trận của giá.
 
 Các công cụ bổ trợ rất hiệu quả khác đó là: Chạy bộ, Poker và Thiền. Chạy giúp luyện tập sự kiên nhẫn, bền bỉ, không bỏ cuộc. Poker luyện tập việc ra quyết định trên sự kiện không chắc chắn. Và Thiền giúp cho việc thả lỏng, quán chiếu lại bản thân. Một người Trader phải tự chọn cho mình những công cụ bổ trợ vừa được nêu ra, tùy thuộc vào thói quen và điều kiện.
 
