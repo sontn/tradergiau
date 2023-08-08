@@ -60,6 +60,6 @@ Các công cụ bổ trợ rất hiệu quả khác đó là: Chạy bộ, Poker
 
 Trader Giàu là Trader đã vượt qua tất cả những trở ngại tâm lý trên, để có thể đi đến đích của con đường Trading thành công. Thực ra, không có đích cuối cùng. Đích ở đây đó chính là đạt được niềm tin nhất quán rằng một Trader Giàu đã đủ năng lực thực sự để kiếm tiền một cách bền vững, ổn định trong thị trường Trading.
 
-Do đó, trading là một hành trình rất dài. Nó có thể kéo đến cuối cuộc đời, cho đến khi nhắm mắt kết thúc của cuộc sống. Vì vậy, đừng cố gắng chạy thật nhanh đến đích, vì không có đích để chạy đâu. 
+Do đó, trading là một hành trình rất dài. Nó có thể kéo đến cuối cuộc đời, cho đến khi nhắm mắt kết thúc của cuộc sống. Vì vậy, đừng cố gắng chạy thật nhanh đến đích, vì không có đích để chạy đến đâu.
 
 **Hãy tận hưởng từng bước chân trên con đường Trading.**
