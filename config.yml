@@ -1,0 +1,50 @@
+baseURL: "https://tradergiau.com"
+languageCode: en-us
+title: Trader Giàu
+theme: PaperMod
+paginate: 5
+
+params:
+  env: production
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: "Xin chào! \U0001F44B"
+    subtitle: "Tôi là **Trader Giàu**. Đó là lời khẳng định cho một niềm tin vào công việc mà chúng tôi đang làm. 
+        Giàu có, không chỉ có mỗi tiền bạc, mà bao gồm cả sức khỏe, kiến thức, tinh thần, tình thương và trách nhiệm.
+        Chúng tôi tin rằng giàu có sẽ giúp bản thân mình và nhiều người hơn. Và vì vậy, trở thành Trader Giàu là
+        nhiệm vụ của chúng tôi. Phía trước, con đường còn rất dài và nhiều khó khăn. Chắc chắn là như vậy. 
+        Nhưng trên hành trình đó, giờ chúng tôi không bơ vơ, đơn độc, thiếu niềm tin, lạc lối. Ngược lại, 
+        chúng tôi đã có cách làm đúng, có sự khôn ngoan, có nỗ lực, có sự bền bĩ, có những người đồng chí hướng. Đường dài đi ắt sẽ phải tới.
+        Hãy trải nghiệm hành trình cùng chúng tôi. 
+        **Xin cảm ơn nhiều!**"
+    imageUrl: "img/buymeacoffee/coffee.png"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: "Data Professor"
+
+  homeInfoParams:
+    Title: "Xin chào"
+    Content: "Chào mừng đến với Blog Nhà Giao Dịch. Đây là website cung cấp các thông tin bổ ích về giao dịch. Hy vọng các bạn sẽ tìm được công thức giao dịch chiến thắng của mình ở đây. Chúc các bạn trở thành Trader có lợi nhuận ổn định."
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/nhagiaodich_com"
+    - name: tiktok
+      url: "https://tiktok.com/@nhagiaodich_com"
+    - name: facebook
+      url: "https://www.facebook.com/nhagiaodichcom"
+    - name: youtube
+      url: "https://www.youtube.com/@nhagiaodich_com"
+
+menu:
+  main:
+    - identifier: about
+      name: Liên kết
+      url: /link/
+      weight: 30
+    - identifier: link
+      name: Buy me a coffee
+      url: /buymeacoffee/
+      weight: 40
