@@ -2,16 +2,14 @@ baseURL: "https://tradergiau.com"
 languageCode: en-us
 title: Trader Giàu
 theme: PaperMod
-paginate: 5
+paginate: 10
 
 params:
   env: production
 
-  # profile-mode
-  profileMode:
-    enabled: true # needs to be explicitly set
-    title: "Xin chào! \U0001F44B"
-    subtitle: "Tôi là **Trader Giàu**. Đó là lời khẳng định cho một niềm tin vào công việc mà chúng tôi đang làm. 
+  homeInfoParams:
+    Title: "Xin chào"
+    Content: "Tôi là **Trader Giàu**. Đó là lời khẳng định cho một niềm tin vào công việc mà chúng tôi đang làm. 
         Giàu có, không chỉ có mỗi tiền bạc, mà bao gồm cả sức khỏe, kiến thức, tinh thần, tình thương và trách nhiệm.
         Chúng tôi tin rằng giàu có sẽ giúp bản thân mình và nhiều người hơn. Và vì vậy, trở thành Trader Giàu là
         nhiệm vụ của chúng tôi. Phía trước, con đường còn rất dài và nhiều khó khăn. Chắc chắn là như vậy. 
@@ -19,11 +17,6 @@ params:
         chúng tôi đã có cách làm đúng, có sự khôn ngoan, có nỗ lực, có sự bền bĩ, có những người đồng chí hướng. Đường dài đi ắt sẽ phải tới.
         Hãy trải nghiệm hành trình cùng chúng tôi. 
         **Xin cảm ơn nhiều!**"
-    imageUrl: "img/buymeacoffee/coffee.png"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: "Trader Giau"
-
 
   socialIcons:
     - name: twitter
@@ -37,11 +30,23 @@ params:
 
 menu:
   main:
+    - identifier: categories
+      name: Phân loại
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Lưu trữ
+      url: /archives/
+      weight: 30
     - identifier: about
       name: Liên kết
       url: /link/
-      weight: 30
+      weight: 40
     - identifier: link
       name: Buy me a coffee
       url: /buymeacoffee/
-      weight: 40
+      weight: 50
